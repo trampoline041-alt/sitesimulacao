@@ -1,0 +1,3 @@
+Coloque aqui os dois arquivos de imagem (nomes exatos):
+  logo-goo-eletricos.png      -> logo GOO ELÉTRICOS
+  autopropelido-x1000.png     -> foto do Autopropelido X1000 (vermelho e preto)
